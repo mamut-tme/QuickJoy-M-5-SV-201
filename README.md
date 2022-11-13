@@ -1,4 +1,5 @@
 # QuickJoy-M-5-SV-201
+[<img src="/QuickJoy%20M5_photo.jpg" width="500" />](/QuickJoy%20M5_photo.jpg)
 ## Introduction
 The QuickJoy-M-5-SV-201 joystick is a peculiar PC "analog" joystick, connected via so called Gameport (nowadays obsolete). In fact, it is digital - the stick movements recognize only in one in 4 or 8 (diagonal) movements, but the interface to the PC is kind of analog - at least it works with standard 2 axis, 2 button drivers for analog joystick, but it uses quite a different principle of operation. This different principle has one benefit - calibration is done with one potentiometer.
 
