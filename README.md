@@ -27,4 +27,4 @@ However, if the user moves the stick to a position of different than middle, the
 The U3 based generator is also astable and is used as autofire, with a frequency controlled by RV2. In the handle, the SW5 switch reverses the functions of the buttons, SW6 and SW7 enable/disable the autofire function on the front and back fire buttons separatelly. the D1 and D2 LEDs go on when the fire buttons are engaged.
 
 ## Summary
-This joystick was quite unusual and took me some time to understand why it doesn't work like any analog joystick. Despite of it's complexity I like the design.
+This joystick was quite unusual and took me some time to understand why it doesn't work like any analog joystick. Despite of its complexity I like the design.
